@@ -1,0 +1,30 @@
+Batagor, 8000, 1, 4
+Mie + Telur, 30000, 7, 1
+Tempe Goreng Akhir Bulan, 6000, 9, 2
+Tumis Kangkung, 8000, 14, 0
+Nasi Goreng Kancow, 10000, 15, 0
+Karedok Ema, 5000, 4, 1
+Siomaymay, 5000, 2, 1
+Ayam Bakar gejrot, 14000, 12, 0
+Pepes Nirmana, 80000, 6, 0
+Gurame Sambel Duar, 20000, 15, 0
+Cumi Bakar Alakadarnya, 30000, 0, 0
+Chiken Konstanta, 9000, 15, 0
+Gurita Saus Tiram, 60000, 0, 0
+Arwana Saus Variabel, 40000, 2, 0
+Kerang Ala yeye, 25000, 5, 0
+Pepes Paus, 30000, 0, 0
+Hiu Bakar, 40000, 15, 0
+Pizza Pascal, 24000, 15, 0
+Burger King, 12000, 15, 0
+Sate Maranggi, 30000, 3, 0
+Pempek Madura, 20000, 6, 0
+Sate Palembang, 18000, 8, 0
+Babi Guling, 30000, 7, 0
+Sate Cicak, 50000, 12, 0
+Sop Buaya, 35000, 15, 0
+Pepes Gajah, 30000, 10, 0
+Biawak Open, 20000, 15, 0
+Soto Bandung, 40000, 15, 0
+Ayam Kuhp, 90000, 14, 0
+Soto aja, 6000, 2, 0
